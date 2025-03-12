@@ -1,0 +1,10 @@
+// para usar caminhos absolutos
+
+// tsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    // outras configurações
+  },
+  // outras configurações
+}
