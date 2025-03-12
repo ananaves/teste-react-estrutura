@@ -1,0 +1,1 @@
+// Guarda funções utilitárias que podem ser usadas em vários lugares do app 

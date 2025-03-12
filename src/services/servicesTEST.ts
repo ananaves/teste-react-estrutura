@@ -1,0 +1,1 @@
+// Contém funções para chamadas à API externa

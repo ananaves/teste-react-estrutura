@@ -1,0 +1,1 @@
+// Contém os arquivos relacionados à interface do usuário (UI).
